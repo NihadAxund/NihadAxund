@@ -11,8 +11,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<div
-    style="display: flex; flex-wrap: wrap-reverse; margin: 10px; padding: 12px; border-radius: 15px; background-color: #32076f;">
+<div style="display: flex; flex-wrap: wrap-reverse; margin: 10px; padding: 12px; border-radius: 15px; background-color: #32076f;">
     <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
                 alt="android" width="40" height="40" /> </a> <a href="https://azure.microsoft.com/en-in/"
