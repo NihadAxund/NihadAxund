@@ -1,4 +1,4 @@
-<h1 align="center">Hi I'm Nihad</h1>
+<h2 align="center">Hi I'm Nihad</h2>
 
 
 
@@ -87,8 +87,4 @@
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
                 alt="typescript" width="40" height="40" /> </a> </p>
 
-
 </div>
-<p><img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=nihadaxund&show_icons=true&locale=en&layout=compact"
-        alt="nihadaxund" /></p>
