@@ -1,15 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nihad</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 
-<style>
-    body {
-        background-color: black;
-    }
 
-    h3 {
-        color: azure;
-    }
-</style>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,7 +11,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<div style="display: flex; flex-wrap: wrap-reverse; margin: 10px; padding: 12px; border-radius: 15px; background-color: #32076f;">
+<div
+    style="display: flex; flex-wrap: wrap-reverse; margin: 10px; padding: 12px; border-radius: 15px; background-color: #32076f;">
     <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
                 alt="android" width="40" height="40" /> </a> <a href="https://azure.microsoft.com/en-in/"
@@ -95,8 +88,8 @@
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
                 alt="typescript" width="40" height="40" /> </a> </p>
 
-    <p><img align="center"
-            src="https://github-readme-stats.vercel.app/api/top-langs?username=nihadaxund&show_icons=true&locale=en&layout=compact"
-            alt="nihadaxund" /></p>
 
 </div>
+<p><img align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=nihadaxund&show_icons=true&locale=en&layout=compact"
+        alt="nihadaxund" /></p>
