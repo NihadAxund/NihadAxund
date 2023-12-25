@@ -1,4 +1,4 @@
-<h2 align="center">Hi I'm Nihad</h2>
+<h3 align="center">Hi I'm Nihad</h3>
 
 
 
@@ -10,7 +10,7 @@
             alt="https://www.linkedin.com/in/nihad-axundzade-760296240/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h4 align="left">Languages and Tools:</h4>
 <div style="display: flex; flex-wrap: wrap-reverse; margin: 10px; padding: 12px; border-radius: 15px; background-color: #32076f;">
     <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
