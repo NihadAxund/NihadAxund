@@ -86,6 +86,8 @@
             rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
                 alt="typescript" width="40" height="40" /> </a> </p>
-![1721595461976](https://github.com/user-attachments/assets/fbf5e7c2-f9f0-4a1f-af4f-65fb6cbdbf56)
+            rel="noreferrer"> <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg](https://github.com/user-attachments/assets/fbf5e7c2-f9f0-4a1f-af4f-65fb6cbdbf56"
+                alt="typescript" width="40" height="40" /> </a> </p>
 
 </div>
