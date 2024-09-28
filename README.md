@@ -11,11 +11,6 @@
 </p>
 
 
-<div>
-           <img
-                src="https://github.com/user-attachments/assets/fbf5e7c2-f9f0-4a1f-af4f-65fb6cbdbf56"
-                alt="typescript" width="250" height="350" /> </a> </p>
-</div>
                 
 <h4 align="left">Languages and Tools:</h4>
 <div style="display: flex; flex-wrap: wrap-reverse; margin: 10px; padding: 12px; border-radius: 15px; background-color: #32076f;">
@@ -92,5 +87,11 @@
                 width="40" height="40" /> </a> <a href="https://www.typescriptlang.org/" target="_blank"
 
 
+</div>
+
+<div>
+           <img
+                src="https://github.com/user-attachments/assets/fbf5e7c2-f9f0-4a1f-af4f-65fb6cbdbf56"
+                alt="typescript" width="250" height="350" /> </a> </p>
 </div>
 
