@@ -10,6 +10,13 @@
             alt="https://www.linkedin.com/in/nihad-axundzade-760296240/" height="30" width="40" /></a>
 </p>
 
+
+<div>
+           <img
+                src="https://github.com/user-attachments/assets/fbf5e7c2-f9f0-4a1f-af4f-65fb6cbdbf56"
+                alt="typescript" width="250" height="350" /> </a> </p>
+</div>
+                
 <h4 align="left">Languages and Tools:</h4>
 <div style="display: flex; flex-wrap: wrap-reverse; margin: 10px; padding: 12px; border-radius: 15px; background-color: #32076f;">
     <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
@@ -83,11 +90,7 @@
             rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
                 width="40" height="40" /> </a> <a href="https://www.typescriptlang.org/" target="_blank"
-            rel="noreferrer"> <img
-                src="https://github.com/user-attachments/assets/fbf5e7c2-f9f0-4a1f-af4f-65fb6cbdbf56"
-                alt="typescript" width="40" height="40" /> </a> </p>
-            rel="noreferrer"> <img
-                src="https://github.com/user-attachments/assets/fbf5e7c2-f9f0-4a1f-af4f-65fb6cbdbf56"
-                alt="typescript" width="40" height="40" /> </a> </p>
+
 
 </div>
+
