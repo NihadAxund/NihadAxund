@@ -89,9 +89,3 @@
 
 </div>
 
-[<div align="center">
-           <img align="center"
-                src="https://github.com/user-attachments/assets/fbf5e7c2-f9f0-4a1f-af4f-65fb6cbdbf56"
-                alt="typescript" width="250" height="350" /> </a> </p>
-</div>](url)
-
